@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manojdhinakar. 
-- 👀 I’m interested in AI , Web Designing , Machine Learning and Deep learning
+- 👀 I’m interested in AI , Cloud computing , Machine Learning and Deep learning
 - 🌱 I’m currently learning "AI & Machine Learning"
-- 💞️ I’m looking to collaborate on "Web Designing and Cloud computing"
+- 💞️ I’m looking to collaborate on "Web Designing"
 - 📫 How to reach me - MY Mail Id : manojdhinakar01@gmail.com
 
 <!---
