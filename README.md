@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Manojdhinakar. 
-- 👀 I’m interested in AI , Cloud computing , Machine Learning and Deep learning
-- 🌱 I’m currently learning "AI & Machine Learning"
-- 💞️ I’m looking to collaborate on "Web Designing"
+- 👀 I’m interested in Networking , Cloud computing 
+- 🌱 I’m currently learning " A+ Hardware , N+ Networking , CCNA and CMWARE " 
+- 💞️ I’m looking to collaborate on "Web Designing , Python Programming , Networking"
 - 📫 How to reach me - MY Mail Id : manojdhinakar01@gmail.com
+ 
 
 
 <!---
