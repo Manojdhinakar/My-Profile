@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Manojdhinakar. 
-- 👀 I’m interested in Networking , Cloud computing 
-- 🌱 I’m currently learning " A+ Hardware , N+ Networking , CCNA and CMWARE " 
-- 💞️ I’m looking to collaborate on "Web Designing , Python Programming and Networking"
+- 👀 I’m interested in Cloud Computing , Testing , software developing Full Stack Development.
+- 🌱 I’m currently learning " AWS " 
+- 💞️ I’m looking to collaborate on "Web Designing , Python Programming , RHCE (Linux) and Networking"
 - 📫 How to reach me - MY Mail Id : manojdhinakar01@gmail.com
- 
+   
 
 
 <!---
