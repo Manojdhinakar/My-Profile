@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manojdhinakar. 
-- 👀 I’m interested in Cloud Computing , Testing , software developing Full Stack Development.
+- 👀 I’m interested in  Networking and Cloud Computing 
 - 🌱 I’m currently learning " AWS " 
-- 💞️ I’m looking to collaborate on "Web Designing , Python Programming , RHCE (Linux) and Networking"
+- 💞️ I’m looking to collaborate on " Networking "
 - 📫 How to reach me - MY Mail Id : manojdhinakar01@gmail.com
    
 
